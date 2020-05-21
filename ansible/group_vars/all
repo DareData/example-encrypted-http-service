@@ -6,5 +6,5 @@ ssl_email: TODO
 # for use in the application role
 database_user: app
 database_password: super-strong-password-123
-database_name: ghostprodappdb
-database_host: ghostprodappdb.clqtsv7looxi.eu-west-1.rds.amazonaws.com
+database_name: TODO
+database_host: TODO
