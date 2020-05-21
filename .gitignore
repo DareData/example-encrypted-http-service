@@ -27,4 +27,5 @@ override.tf.json
 
 
 # ansible
-*.retry
+*.retry.idea
+.idea
