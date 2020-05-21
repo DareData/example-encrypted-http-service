@@ -8,7 +8,7 @@ terraform {
   required_version = "~>0.12"
   backend "s3" {
     region = "eu-west-1"
-    bucket = "ghost-terraform"
+    bucket = "TODO"
     key    = "tfstates/"
   }
 }
