@@ -1,7 +1,7 @@
 ---
 # For setting up the ssl certs
-domain_name: blog.daredata.engineering
-ssl_email: sam@daredata.engineering
+domain_name: TODO
+ssl_email: TODO
 
 # for use in the application role
 database_user: app
