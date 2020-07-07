@@ -24,7 +24,7 @@ resource "aws_instance" "web" {
   security_groups = var.vpc_security_group_ids
   key_name = var.ssh_key_name
   tags = {
-    Name: "${var.app_name}-${var.stage}-http-server"
+    Name = "${var.app_name}-${var.stage}-http-server"
     Service  = var.app_name
     Environment = var.stage
   }
